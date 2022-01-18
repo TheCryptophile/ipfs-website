@@ -7,7 +7,6 @@ relativeURLs = true
 [params]
   AuthorName = 'The Cryptophile'
   GitHubUser = 'thecryptophile'
-  ListOfFoo = ['foo1', 'foo2']
   SidebarRecentLimit = 10
   Subtitle = 'Hugo is Absurdly Fast!'
 [permalinks]
