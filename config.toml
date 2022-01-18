@@ -1,0 +1,14 @@
+baseURL = 'http://thecryptophile.sol/'
+footnoteReturnLinkContents = '↩'
+languageCode = 'en-us'
+title = 'The Cryptophile'
+theme = 'ananke'
+relativeURLs = true
+[params]
+  AuthorName = 'The Cryptophile'
+  GitHubUser = 'thecryptophile'
+  ListOfFoo = ['foo1', 'foo2']
+  SidebarRecentLimit = 10
+  Subtitle = 'Hugo is Absurdly Fast!'
+[permalinks]
+  posts = '/:year/:month/:title/'
